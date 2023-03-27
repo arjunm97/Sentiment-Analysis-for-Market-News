@@ -4,7 +4,7 @@ Retail investors find it hard to keep up with the news of a perticulat stock's n
 This project aims to get the news using API and perform sentiment analysis on the news article.
 
 Using news API calls acquired the relevant news articles for a stock.
-Used pre-processing techniques such as vertoizision, removing stop words, and other removing other irrelevant characters to get a document.
+Used pre-processing techniques such as vertoizision, removing stop words, and removing other irrelevant characters to get a document.
 Conducted Sentiment analysis on the document using NLP VADER sentiment analysis.
 
 
