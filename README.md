@@ -4,7 +4,7 @@ Retail investors find it hard to keep up with a particular stock's news.
 This project aims to get the news using API and perform sentiment analysis on the news article.
 
 Using news API calls acquired the relevant news articles for a stock.
-I used pre-processing techniques such as vertoizision, removing stop words, and removing other irrelevant characters to get a document.
+I used pre-processing techniques such as vectorization, removing stop words, and removing irrelevant characters to get a document.
 Did Sentiment analysis on the document using NLP VADER sentiment analysis.
 
 
