@@ -1,6 +1,6 @@
 # Sentiment-Analysis-for-Market-News
 
-Retail investors find it hard to keep up with the news of a perticulat stock's news.
+Retail investors find it hard to keep up with a particular stock's news.
 This project aims to get the news using API and perform sentiment analysis on the news article.
 
 Using news API calls acquired the relevant news articles for a stock.
